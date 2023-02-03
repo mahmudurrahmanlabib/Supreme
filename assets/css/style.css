@@ -17,7 +17,9 @@
 }
 
 
-
+<style>
+@import url('https://fonts.maateen.me/charu-chandan-3d/font.css');
+</style>
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -40,7 +42,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Li Byomgraphy Koushali Unicode";
+  font-family: 'CharuChandan3D', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -153,7 +155,7 @@ h6 {
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "Li Byomgraphy Koushali Unicode";
+  font-family: 'CharuChandan3D', sans-serif;
 }
 
 #header .logo a {
@@ -454,14 +456,14 @@ h6 {
   font-weight: 500;
   line-height: 56px;
   color: #fff;
-  font-family: "Li Byomgraphy Koushali Unicode";
+  font-family: 'CharuChandan3D', sans-serif;
 }
 
 #hero h2 {
   color: #eee;
   margin: 10px 0 0 0;
   font-size: 50px;
-  font-family: "Li Byomgraphy Koushali Unicode";
+  font-family: 'CharuChandan3D', sans-serif;
 }
 
 #hero .btn-get-started {
@@ -581,7 +583,7 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 500;
-  font-family: "Li Byomgraphy Koushali Unicode";
+  font-family: 'CharuChandan3D', sans-serif;
   font-size: 26px;
 }
 
