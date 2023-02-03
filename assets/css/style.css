@@ -5,23 +5,12 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-@font-face {
-  font-family: 'Borno';
-  src: url('Borno.otf') format('opentype'),
-}
+
 @font-face {
   font-family: 'Li Byomgraphy Koushali Unicode';
   src: url('LiByomgraphyKoushaliUnicode.woff2') format('woff2'),
       url('LiByomgraphyKoushaliUnicode.woff') format('woff'),
       url('LiByomgraphyKoushaliUnicode.svg#LiByomgraphyKoushaliUnicode') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: 'FN Mahfuj Oa-Borno';
-  src: url('FNMahfujOaBorno.woff2') format('woff2'),
-      url('FNMahfujOaBorno.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -51,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Li Byomgraphy Koushali Unicode", sans-serif;
+  font-family: "Li Byomgraphy Koushali Unicode";
 }
 
 /*--------------------------------------------------------------
@@ -164,7 +153,7 @@ h6 {
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "Borno", sans-serif;
+  font-family: "Li Byomgraphy Koushali Unicode";
 }
 
 #header .logo a {
@@ -465,14 +454,14 @@ h6 {
   font-weight: 500;
   line-height: 56px;
   color: #fff;
-  font-family: "Li Byomgraphy Koushali Unicode", sans-serif;
+  font-family: "Li Byomgraphy Koushali Unicode";
 }
 
 #hero h2 {
   color: #eee;
   margin: 10px 0 0 0;
   font-size: 50px;
-  font-family: "Li Byomgraphy Koushali Unicode", sans-serif;
+  font-family: "Li Byomgraphy Koushali Unicode";
 }
 
 #hero .btn-get-started {
@@ -592,7 +581,7 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 500;
-  font-family: "Li Byomgraphy Koushali Unicode", sans-serif;
+  font-family: "Li Byomgraphy Koushali Unicode";
   font-size: 26px;
 }
 
