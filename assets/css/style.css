@@ -5,7 +5,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
+@font-face {
+  font-family: "Borno";
+  src: url("/fonts/Borno.otf") format("opentype"),
+}
 @font-face {
   font-family: 'FN Mahfuj Oa-Borno';
   src: url('FNMahfujOaBorno.woff2') format('woff2'),
